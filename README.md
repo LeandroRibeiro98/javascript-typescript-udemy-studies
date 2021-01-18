@@ -27,15 +27,18 @@ The codes contained in the repository are written based on my learning in the Ja
 ### Modules:
 
 - Node.js
+- Typescript
 - Express
-- NextJs
+- NextJS
 - Strapi
+- React
 
 ### Data Bases:
 
 - MongoDB
 - MySQL
 - MariaDB
+- KnexJS
 
 ------
 
@@ -65,12 +68,15 @@ Os códigos contidos no repositório são escritos com base no meu aprendizado n
 ### Módulos:
 
 - Node.js
+- Typescript
 - Express
-- NextJs
+- NextJS
 - Strapi
+- React
 
 ### Base de Dados:
 
 - MongoDB
 - MySQL
 - MariaDB
+- KnexJS

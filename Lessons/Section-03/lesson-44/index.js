@@ -8,6 +8,6 @@ const pessoa = {
     }
 };
 
-// Atribuição via desestruturação
+// Atribuição via desestruturação (destructuring assignment)
 const {nome, sobrenome, idade, endereco: {rua, numero}} = pessoa;
 console.log(nome, sobrenome, idade, rua, numero);
